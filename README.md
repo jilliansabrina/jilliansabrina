@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jilliansabrina
+- 👀 I’m interested in Web Development and Machine Learning
+- 🌱 I’m currently learning Python for server-side scripting
+- 💞️ I’m looking to collaborate on any projects involving something new and interesting
+- 📫 How to reach me: jilliansabrina@gmail.com
